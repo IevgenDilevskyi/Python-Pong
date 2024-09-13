@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a42319b-51d6-4a06-998f-8f5a6599647f" name="Changes" comment="">
+    <list default="true" id="1a42319b-51d6-4a06-998f-8f5a6599647f" name="Changes" comment="move ball and detect collision with the walls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ball.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -48,6 +50,31 @@
       <option name="presentableId" value="Default" />
       <updated>1726169303912</updated>
     </task>
+    <task id="LOCAL-00001" summary="Set up the screen">
+      <option name="closed" value="true" />
+      <created>1726170239492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726170239492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create players' paddles">
+      <option name="closed" value="true" />
+      <created>1726172932553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726172932553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="move ball and detect collision with the walls">
+      <option name="closed" value="true" />
+      <created>1726179585933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726179585933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,5 +87,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set up the screen" />
+    <MESSAGE value="Create players' paddles" />
+    <MESSAGE value="move ball and detect collision with the walls" />
+    <option name="LAST_COMMIT_MESSAGE" value="move ball and detect collision with the walls" />
   </component>
 </project>
